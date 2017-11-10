@@ -5,5 +5,4 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-  board.push([" "," "," "," ","X"," "," "," "," "])
 end
